@@ -27,14 +27,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/nihadaliyev-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nihadaliyev-dev" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nihadaliyev-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nihadaliyev-dev" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/27971792" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27971792" height="30" width="40" /></a>
-<a href="https://instagram.com/nogface" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nogface" height="30" width="40" /></a>
-<a href="https://medium.com/@nihadaliyev-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nihadaliyev-dev" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nihadonly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nihadonly" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nihadonly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nihadonly" height="30" width="40" /></a>
-<a href="https://discord.gg/r58KUwvWeN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="r58KUwvWeN" height="30" width="40" /></a>
+<a style="padding: 5vh" href="https://dev.to/nihadaliyev-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="nihadaliyev-dev" height="30" width="40" /></a>
+<a style="padding: 5vh" href="https://linkedin.com/in/nihadaliyev-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nihadaliyev-dev" height="30" width="40" /></a>
+<a style="padding: 5vh" href="https://stackoverflow.com/users/27971792" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="27971792" height="30" width="40" /></a>
+<a style="padding: 5vh" href="https://instagram.com/nogface" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nogface" height="30" width="40" /></a>
+<a style="padding: 5vh" href="https://medium.com/@nihadaliyev-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nihadaliyev-dev" height="30" width="40" /></a>
+<a style="padding: 5vh" href="https://www.youtube.com/c/nihadonly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nihadonly" height="30" width="40" /></a>
+<a style="padding: 5vh" href="https://www.leetcode.com/nihadonly" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nihadonly" height="30" width="40" /></a>
+<a style="padding: 5vh" href="https://discord.gg/r58KUwvWeN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="r58KUwvWeN" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
